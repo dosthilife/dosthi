@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c48a96e3.css",
+    "main.js": "/static/js/main.823667b6.js",
+    "static/media/unsplash2.jpg": "/static/media/unsplash2.f0c95705e84a37b12a50.jpg",
+    "static/media/DOSTHI.png": "/static/media/DOSTHI.499d15f19a449a56a53b.png",
+    "index.html": "/index.html",
+    "main.c48a96e3.css.map": "/static/css/main.c48a96e3.css.map",
+    "main.823667b6.js.map": "/static/js/main.823667b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c48a96e3.css",
+    "static/js/main.823667b6.js"
+  ]
+}
